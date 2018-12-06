@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Slide To Unlock ’Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://slidetounlock.github.io/"/>
+  <updated>2018-12-06T08:59:47.755Z</updated>
+  <id>https://slidetounlock.github.io/</id>
+  
+  <author>
+    <name>Slide To Unlock</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SpringBoot入门教程————环境搭建</title>
+    <link href="https://slidetounlock.github.io/2018/12/05/springboot1/"/>
+    <id>https://slidetounlock.github.io/2018/12/05/springboot1/</id>
+    <published>2018-12-05T14:21:38.000Z</published>
+    <updated>2018-12-06T08:59:47.755Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;springboot简介&quot;&gt;&lt;a href=&quot;#springboot简介&quot; class=&quot;headerlink&quot; title=&quot;springboot简介&quot;&gt;&lt;/a&gt;springboot简介&lt;/h2&gt;&lt;h2 id=&quot;开发环境&quot;&gt;&lt;a href=&quot;#开发环境&quot; cla
+      
+    
+    </summary>
+    
+      <category term="java" scheme="https://slidetounlock.github.io/categories/java/"/>
+    
+    
+      <category term="教程" scheme="https://slidetounlock.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="springboot" scheme="https://slidetounlock.github.io/tags/springboot/"/>
+    
+      <category term="java" scheme="https://slidetounlock.github.io/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git实现ssh登录</title>
+    <link href="https://slidetounlock.github.io/2018/12/05/gitssh/"/>
+    <id>https://slidetounlock.github.io/2018/12/05/gitssh/</id>
+    <published>2018-12-05T08:21:09.000Z</published>
+    <updated>2018-12-06T08:59:47.747Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;git实现ssh登录，就实现了免密登录&lt;/p&gt;
+&lt;h2 id=&quot;安装Git&quot;&gt;&lt;a href=&quot;#安装Git&quot; class=&quot;headerlink&quot; title=&quot;安装Git&quot;&gt;&lt;/a&gt;安装Git&lt;/h2&gt;&lt;p&gt;Git&lt;a href=&quot;https://www.git-scm
+      
+    
+    </summary>
+    
+      <category term="git" scheme="https://slidetounlock.github.io/categories/git/"/>
+    
+    
+      <category term="教程" scheme="https://slidetounlock.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="git" scheme="https://slidetounlock.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx反向代理</title>
+    <link href="https://slidetounlock.github.io/2017/12/15/nginxReverseProxy/"/>
+    <id>https://slidetounlock.github.io/2017/12/15/nginxReverseProxy/</id>
+    <published>2017-12-15T08:23:53.000Z</published>
+    <updated>2018-12-06T08:59:47.755Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Nginx是一个高性能的HTTP和反向代理服务器，Nginx是一款轻量级的Web服务器/反向代理服务器及电子邮件（IMAP/POP3）代理服务器，其特点是占有内存少，并发能力强，事实上nginx的并发能力确实在同类型的网页服务器中表现较好，下面来说一下Nginx如何配置反向
+      
+    
+    </summary>
+    
+      <category term="Linux" scheme="https://slidetounlock.github.io/categories/Linux/"/>
+    
+    
+      <category term="Linux" scheme="https://slidetounlock.github.io/tags/Linux/"/>
+    
+      <category term="Nginx" scheme="https://slidetounlock.github.io/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>原生Java使用druid数据库连接池</title>
+    <link href="https://slidetounlock.github.io/2017/12/08/javaAndDruid1/"/>
+    <id>https://slidetounlock.github.io/2017/12/08/javaAndDruid1/</id>
+    <published>2017-12-08T03:09:57.000Z</published>
+    <updated>2018-12-06T08:59:47.755Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;不依赖spring，直接使用druid数据库连接池，这样写原生java对数据库的操作也不需要自己去分配与管理数据库连接，重复使用现有连接，不需要每次都新建连接，这可以大大提升数据库的处理效率&lt;/p&gt;
+&lt;h1 id=&quot;ConnectionFactory数据库连接的工厂类&quot;&gt;&lt;
+      
+    
+    </summary>
+    
+      <category term="Java" scheme="https://slidetounlock.github.io/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="https://slidetounlock.github.io/tags/Java/"/>
+    
+      <category term="druid" scheme="https://slidetounlock.github.io/tags/druid/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo + Nex T + github + Travis CI构建持续部署个人博客</title>
+    <link href="https://slidetounlock.github.io/2017/11/29/hexo/"/>
+    <id>https://slidetounlock.github.io/2017/11/29/hexo/</id>
+    <published>2017-11-29T12:39:09.000Z</published>
+    <updated>2018-12-06T08:59:47.747Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;我主要写了一下hexo + Nex T + github + Travis CI构建一个持续部署的个人博客，这是我搭建完我的博客发表的第一篇博文，大家也可以先上官网看一些文档&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot; target=&quot;_bla
+      
+    
+    </summary>
+    
+      <category term="hexo" scheme="https://slidetounlock.github.io/categories/hexo/"/>
+    
+    
+      <category term="教程" scheme="https://slidetounlock.github.io/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="hexo" scheme="https://slidetounlock.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
